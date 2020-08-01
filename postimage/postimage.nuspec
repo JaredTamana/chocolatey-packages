@@ -6,7 +6,7 @@
     <title>postimage (Install)</title>
     <authors>postimages.org</authors>
     <owners>JaredTamana</owners>
-	<packageSourceUrl>https://postimages.org/app</packageSourceUrl> <!-- postimage does not have a public source repository, nor a mailing list or bug tracker -->
+	<packageSourceUrl>https://github.com/JaredTheWolf/chocolatey-packages/tree/master/postimage</packageSourceUrl> <!-- postimage does not have a public source repository, nor a mailing list or bug tracker -->
     <projectUrl>https://postimages.org/app</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Postimage is a very easy to use application that was especially designed to provide you with the means of taking snapshots of your entire desktop or a portion of it. You can manually set the area size and after the capture is made, the image can be saved or shared online directly. Postimage can also send the URL of a shared screen shot to the system clipboard, so you can save it easily.</description>
