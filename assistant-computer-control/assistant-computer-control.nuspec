@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>assistantcomputercontrol</id>
+    <version>1.4.1</version>
+    <title>assistantcomputercontrol (Install)</title>
+    <authors>Albert Møller Nielsen</authors>
+    <owners>Albert Møller Nielsen</owners>
+    <projectUrl>https://assistantcomputercontrol.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AssistantComputerControl, or ACC for short, is a piece of free open source software that lets you do things on your computer using your Amazon Alexa or Google Assistant! The application collaborates with IFTTT and your favorite cloud service (Dropbox, OneDrive or Google Drive) to connect your assistant with your computer.</description>
+    <summary>Control your computer using voice assistants</summary>
+    <tags>assistantcomputercontrol google assistant googleassistant utility</tags>
+  </metadata>
+</package>
