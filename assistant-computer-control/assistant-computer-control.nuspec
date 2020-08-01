@@ -4,9 +4,11 @@
     <id>assistantcomputercontrol</id>
     <version>1.4.1</version>
     <title>assistantcomputercontrol (Install)</title>
-    <authors>Albert Møller Nielsen</authors>
+    <authors>JaredTamana</authors>
     <owners>Albert Møller Nielsen</owners>
+	<packageSourceUrl>https://github.com/JaredTheWolf/chocolatey-packages/tree/master/assistant-computer-control</packageSourceUrl>
     <projectUrl>https://assistantcomputercontrol.com/</projectUrl>
+	<projectSourceUrl>https://github.com/AlbertMN/AssistantComputerControl</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>AssistantComputerControl, or ACC for short, is a piece of free open source software that lets you do things on your computer using your Amazon Alexa or Google Assistant! The application collaborates with IFTTT and your favorite cloud service (Dropbox, OneDrive or Google Drive) to connect your assistant with your computer.</description>
     <summary>Control your computer using voice assistants</summary>
