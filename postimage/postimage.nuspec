@@ -5,6 +5,7 @@
     <version>1.0.1</version>
     <title>postimage (Install)</title>
     <authors>postimages.org</authors>
+	<iconUrl>https://www.saashub.com/images/app/service_logos/16/33f9413bf31f/large.png</iconUrl> <!-- no license is available for postimage -->
     <owners>JaredTamana</owners>
 	<packageSourceUrl>https://github.com/JaredTheWolf/chocolatey-packages/tree/master/postimage</packageSourceUrl> <!-- postimage does not have a public source repository, nor a mailing list or bug tracker -->
     <projectUrl>https://postimages.org/app</projectUrl>

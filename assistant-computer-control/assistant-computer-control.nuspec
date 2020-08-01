@@ -1,10 +1,12 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>assistantcomputercontrol</id>
+    <id>assistant-computer-control</id>
     <version>1.4.1</version>
     <title>assistantcomputercontrol (Install)</title>
     <authors>JaredTamana</authors>
+	<iconUrl>https://assistantcomputercontrol.com/assets/img/acc-logo.png</iconUrl>
+	<licenseUrl>https://github.com/AlbertMN/AssistantComputerControl/blob/master/LICENSE</licenseUrl>
     <owners>Albert Møller Nielsen</owners>
 	<packageSourceUrl>https://github.com/JaredTheWolf/chocolatey-packages/tree/master/assistant-computer-control</packageSourceUrl>
     <projectUrl>https://assistantcomputercontrol.com/</projectUrl>
